@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Teste_Gov_Br/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.28.0",
+          "Selenium.WebDriver.ChromeDriver": "132.0.6834.8300"
+        },
+        "runtime": {
+          "Teste_Gov_Br.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.28.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/132.0.6834.8300": {}
+    }
+  },
+  "libraries": {
+    "Teste_Gov_Br/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Selenium.WebDriver/4.28.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g4iZWBHQH5dObJQKcKXsol8yFJPIkXhVdn/8P726d4OmpHgQ9aYSwtTCWo+FUYHIkMS+haItgeOT6hilmLeHNw==",
+      "path": "selenium.webdriver/4.28.0",
+      "hashPath": "selenium.webdriver.4.28.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/132.0.6834.8300": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jxUJyO26YvJ9AeeecjEa8ALK2SUaGdubCqa47icu1sogj+R7PyeXke6zh8CPuAvafGr2ShP7UzSx7hMzVsSSdg==",
+      "path": "selenium.webdriver.chromedriver/132.0.6834.8300",
+      "hashPath": "selenium.webdriver.chromedriver.132.0.6834.8300.nupkg.sha512"
+    }
+  }
+}

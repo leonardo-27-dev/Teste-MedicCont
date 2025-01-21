@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lit/nGILcqM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leonardo Vangelista\\source\\repos\\Teste_Gov_Br\\Teste_Gov_Br\\Teste_Gov_Br.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo Vangelista\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
+    "C:\\Users\\Leonardo Vangelista\\.nuget\\packages\\selenium.webdriver.chromedriver\\132.0.6834.8300\\selenium.webdriver.chromedriver.132.0.6834.8300.nupkg.sha512"
+  ],
+  "logs": []
+}
